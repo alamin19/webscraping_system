@@ -1,0 +1,31 @@
+2020-03-28 15:53:30,876 INFO      prothomalo  8560 Going to start process for extracting information for Prothomalo Newspaper.
+2020-04-03 15:46:30,183 INFO      prothomalo  4456 Going to start process for extracting news article information from Newspapers.
+2020-04-03 15:49:45,682 INFO      prothomalo  1164 Going to start process for extracting news article information from Newspapers.
+2020-04-03 15:54:57,695 INFO      prothomalo 11500 Going to start process for extracting news article information from Newspapers.
+2020-04-03 15:56:44,054 INFO      prothomalo  2940 Going to start process for extracting news article information from Newspapers.
+2020-04-03 15:57:53,716 INFO      prothomalo 11672 Going to start process for extracting news article information from Newspapers.
+2020-04-03 15:58:57,828 INFO      prothomalo 11288 Going to start process for extracting news article information from Newspapers.
+2020-04-05 19:23:46,517 INFO      prothomalo 10184 Going to start process for extracting news article information from Newspapers.
+2020-04-05 19:24:43,587 ERROR     prothomalo 10184 (<class 'requests.exceptions.ConnectionError'>, ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.ntvbd.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000000004C5CD30>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed',))",),), <traceback object at 0x000000000359A288>)
+2020-04-05 19:25:41,739 INFO      prothomalo 11088 Going to start process for extracting news article information from Newspapers.
+2020-04-05 19:29:00,085 INFO      prothomalo  8804 Going to start process for extracting news article information from Newspapers.
+2020-04-05 19:30:27,685 ERROR     prothomalo  8804 (<class 'requests.exceptions.SSLError'>, SSLError(MaxRetryError("HTTPSConnectionPool(host='www.prothomalo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:852)'),))",),), <traceback object at 0x00000000034B5F08>)
+2020-04-05 19:31:08,138 INFO      prothomalo  2424 Going to start process for extracting news article information from Newspapers.
+2020-04-05 19:31:34,014 ERROR     prothomalo  2424 (<class 'requests.exceptions.SSLError'>, SSLError(MaxRetryError("HTTPSConnectionPool(host='www.prothomalo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:852)'),))",),), <traceback object at 0x00000000034B5E08>)
+2020-04-05 19:32:25,054 INFO      prothomalo  1072 Going to start process for extracting news article information from Newspapers.
+2020-04-05 19:33:14,715 ERROR     prothomalo  1072 (<class 'requests.exceptions.ConnectionError'>, ConnectionError(ProtocolError('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None)),), <traceback object at 0x00000000048D6348>)
+2020-04-05 19:34:24,002 INFO      prothomalo 11044 Going to start process for extracting news article information from Newspapers.
+2020-04-05 19:34:48,817 INFO      prothomalo  8480 Going to start process for extracting news article information from Newspapers.
+2020-04-05 19:44:26,045 INFO      prothomalo 11104 Going to start process for extracting news article information from Newspapers.
+2020-04-05 19:44:46,609 INFO      prothomalo  7136 Going to start process for extracting news article information from Newspapers.
+2020-04-05 19:45:14,083 ERROR     prothomalo  7136 (<class 'requests.exceptions.SSLError'>, SSLError(MaxRetryError("HTTPSConnectionPool(host='www.banglatribune.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:852)'),))",),), <traceback object at 0x0000000004885648>)
+2020-04-05 20:48:32,572 INFO      prothomalo 11600 Going to start process for extracting news article information from Newspapers.
+2020-04-05 20:50:36,612 INFO      prothomalo 12164 Going to start process for extracting news article information from Newspapers.
+2020-04-05 20:52:35,860 INFO      prothomalo  1628 Going to start process for extracting news article information from Newspapers.
+2020-04-05 20:55:41,758 INFO      prothomalo  9584 Going to start process for extracting news article information from Newspapers.
+2020-04-05 20:58:50,638 INFO      prothomalo  8796 Going to start process for extracting news article information from Newspapers.
+2020-04-05 21:11:12,235 INFO      prothomalo  1896 Going to start process for extracting news article information from Newspapers.
+2020-04-07 11:06:47,634 INFO      prothomalo  1264 Going to start process for extracting news article information from Newspapers.
+2020-04-07 11:07:57,353 INFO      prothomalo  7936 Going to start process for extracting news article information from Newspapers.
+2020-04-07 11:08:38,210 INFO      prothomalo 10560 Going to start process for extracting news article information from Newspapers.
+2020-04-07 11:44:20,677 INFO      prothomalo 10364 Going to start process for extracting news article information from Newspapers.

@@ -1,0 +1,124 @@
+2020-04-13 16:21:50,579 INFO      extract_newspaper_info 11376 Going to start process for extracting news article information from Newspapers.
+2020-04-13 16:21:56,446 INFO      extract_newspaper_info 11376 https://paloimages.prothom-alo.com/contents/cache/images/644x0x1/uploads/media/2020/04/13/1f3ff50500c2e7dc1b4890f05a97df58-5e9434347b8e2.jpg
+2020-04-13 16:21:59,494 INFO      extract_newspaper_info 11376 https://paloimages.prothom-alo.com/contents/cache/images/643x0x1/uploads/media/2020/04/13/25d0591b275599d8f1a70d58b19eafff-5e944202ec6e5.jpg
+2020-04-13 16:22:02,330 INFO      extract_newspaper_info 11376 https://paloimages.prothom-alo.com/contents/cache/images/643x0x1/uploads/media/2020/04/13/1b310b14d8ff62c472c7c1ff872bda8c-5e943e1c1581e.jpg
+2020-04-13 16:22:04,042 INFO      extract_newspaper_info 11376 https://paloimages.prothom-alo.com/contents/cache/images/643x0x1/uploads/media/2020/03/25/f37dc88922b41ee0f85f56eb7d455abe-5e7b845a655fc.jpg
+2020-04-13 16:22:10,575 INFO      extract_newspaper_info 11376 https://paloimages.prothom-alo.com/contents/cache/images/800x0x1/uploads/media/2020/03/18/b32bee8518e987a54dbd18b72dfebfbb-5e71c85a58c92.jpg
+2020-04-13 16:22:11,835 INFO      extract_newspaper_info 11376 https://paloimages.prothom-alo.com/contents/cache/images/643x0x1/uploads/media/2020/04/13/3ca91629820043c420e93bba8546ada2-5e943e99ec8ed.jpg
+2020-04-13 16:22:12,771 INFO      extract_newspaper_info 11376 https://paloimages.prothom-alo.com/contents/cache/images/644x0x1/uploads/media/2017/04/22/d3407d37efa46f9b70d3d54fcfbbc6e6-58fb434a6d0a5.jpg
+2020-04-13 16:22:17,506 INFO      extract_newspaper_info 11376 https://paloimages.prothom-alo.com/contents/cache/images/644x0x1/uploads/media/2020/04/13/bc69d89e61bb200c70e91d2d2deeae6b-5e9437439a302.jpg
+2020-04-13 16:22:19,327 INFO      extract_newspaper_info 11376 https://paloimages.prothom-alo.com/contents/cache/images/800x0x1/uploads/media/2020/04/13/59ea35f4483ea5bd66c547d43e0895a7-5e9429ae21980.jpg
+2020-04-13 16:22:21,531 INFO      extract_newspaper_info 11376 https://paloimages.prothom-alo.com/contents/cache/images/800x0x1/uploads/media/2020/04/13/5033b5e82d5e8e9c536c605b90e83f53-5e93e0a46e1fc.jpg
+2020-04-13 16:22:24,962 INFO      extract_newspaper_info 11376 https://paloimages.prothom-alo.com/contents/cache/images/643x0x1/uploads/media/2020/04/13/25d0591b275599d8f1a70d58b19eafff-5e944202ec6e5.jpg
+2020-04-13 16:22:26,146 INFO      extract_newspaper_info 11376 https://paloimages.prothom-alo.com/contents/cache/images/643x0x1/uploads/media/2020/04/13/4d8689eb8bd2aac09178d3add3c13e4a-5e944149e94df.jpg
+2020-04-13 16:22:31,135 INFO      extract_newspaper_info 11376 https://paloimages.prothom-alo.com/contents/cache/images/800x0x1/uploads/media/2020/04/13/5033b5e82d5e8e9c536c605b90e83f53-5e93e0a46e1fc.jpg
+2020-04-13 16:22:55,860 INFO      extract_newspaper_info 10168 Going to start process for extracting news article information from Newspapers.
+2020-04-13 16:23:03,683 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/life-style/article/1649462/
+2020-04-13 16:23:07,348 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/international/article/1650463/
+2020-04-13 16:23:10,792 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/bangladesh/article/1650195/
+2020-04-13 16:23:11,585 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/bangladesh/article/1650147/
+2020-04-13 16:23:16,825 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/northamerica/article/1650576/
+2020-04-13 16:23:18,711 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/international/article/1650579/
+2020-04-13 16:23:20,431 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/bangladesh/article/1650523/
+2020-04-13 16:23:24,827 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/bangladesh/article/1650568/
+2020-04-13 16:23:25,659 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/bangladesh/article/1650563/
+2020-04-13 16:23:26,533 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/bangladesh/article/1650583/
+2020-04-13 16:23:28,908 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/northamerica/article/1650580/
+2020-04-13 16:23:29,876 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/international/article/1650579/
+2020-04-13 16:23:30,719 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/bangladesh/article/1650359/
+2020-04-13 16:23:31,518 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/economy/article/1650396/
+2020-04-13 16:23:35,925 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/bangladesh/article/1650458/
+2020-04-13 16:23:38,233 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/bangladesh/article/1650537/
+2020-04-13 16:23:41,298 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/bangladesh/article/1650535/
+2020-04-13 16:23:44,432 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/bangladesh/article/1650583/
+2020-04-13 16:23:47,194 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/bangladesh/article/1650568/
+2020-04-13 16:23:58,662 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/entertainment/article/1650430/
+2020-04-13 16:24:06,470 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/economy/article/1650492/
+2020-04-13 16:24:12,718 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/durporobash/article/1650459/
+2020-04-13 16:24:17,291 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/northamerica/article/1650580/
+2020-04-13 16:24:18,181 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/northamerica/article/1650576/
+2020-04-13 16:24:25,352 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/life-style/article/1650349/
+2020-04-13 16:24:26,244 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/life-style/article/1650114/
+2020-04-13 16:24:27,263 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/life-style/article/1650048/
+2020-04-13 16:24:33,105 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/technology/article/1650227/
+2020-04-13 16:24:37,276 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/nagorik-sangbad/article/1650335/
+2020-04-13 16:24:38,070 INFO      extract_newspaper_info 10168 https://www.prothomalo.com/nagorik-sangbad/article/1650330/
+2020-04-16 13:49:33,784 INFO      extract_newspaper_info  2160 Going to start process for extracting news article information from Newspapers.
+2020-04-16 13:49:58,172 INFO      extract_newspaper_info  2160 https://www.prothomalo.com/bangladesh/article/1650107/
+2020-04-16 13:50:01,470 INFO      extract_newspaper_info  2160 https://www.prothomalo.com/life-style/article/1649462/
+2020-04-16 13:50:11,043 INFO      extract_newspaper_info  2160 https://www.prothomalo.com/international/article/1651134/
+2020-04-16 13:51:18,736 ERROR     extract_newspaper_info  2160 (<class 'KeyError'>, KeyError('url',), <traceback object at 0x00000000054E4808>)
+2020-04-16 17:39:30,839 INFO      extract_newspaper_info 4432612800 Going to start process for extracting news article information from Newspapers.
+2020-04-16 17:40:21,455 ERROR     extract_newspaper_info 4432612800 (<class 'KeyError'>, KeyError('url'), <traceback object at 0x1096eca48>)
+2020-04-16 18:36:42,471 INFO      extract_newspaper_info 4588699072 Going to start process for extracting news article information from Newspapers.
+2020-04-16 18:45:10,430 INFO      extract_newspaper_info 4505103808 Going to start process for extracting news article information from Newspapers.
+2020-04-16 18:46:05,697 ERROR     extract_newspaper_info 4505103808 (<class 'KeyError'>, KeyError('url'), <traceback object at 0x10d4fd648>)
+2020-04-18 12:34:18,003 INFO      extract_newspaper_info 4447989184 Going to start process for extracting news article information from Newspapers.
+2020-04-18 12:59:31,636 INFO      extract_newspaper_info 4502908352 Going to start process for extracting news article information from Newspapers.
+2020-04-18 12:59:48,348 INFO      extract_newspaper_info 4502908352 https://www.prothomalo.com/bangladesh/article/1650107/
+2020-04-18 12:59:48,859 INFO      extract_newspaper_info 4502908352 https://www.prothomalo.com/life-style/article/1649462/
+2020-04-18 12:59:51,874 INFO      extract_newspaper_info 4502908352 https://www.prothomalo.com/onnoalo/article/1651548/
+2020-04-18 13:00:00,838 INFO      extract_newspaper_info 4502908352 https://www.prothomalo.com/bangladesh/article/1651440/
+2020-04-18 13:00:09,510 INFO      extract_newspaper_info 4502908352 https://www.prothomalo.com/onnoalo/article/1651145/
+2020-04-18 13:00:10,150 INFO      extract_newspaper_info 4502908352 https://www.prothomalo.com/onnoalo/article/1650776/
+2020-04-18 13:00:11,065 INFO      extract_newspaper_info 4502908352 https://www.prothomalo.com/onnoalo/article/1650762/
+2020-04-18 13:00:12,148 INFO      extract_newspaper_info 4502908352 https://www.prothomalo.com/onnoalo/article/1650734/
+2020-04-18 13:00:14,959 INFO      extract_newspaper_info 4502908352 https://www.prothomalo.com/opinion/article/1651512/
+2020-04-18 13:00:18,380 INFO      extract_newspaper_info 4502908352 https://www.prothomalo.com/pachmisheli/article/1651565/
+2020-04-18 13:00:23,782 INFO      extract_newspaper_info 4502908352 https://www.prothomalo.com/northamerica/article/1651536/
+2020-04-18 13:00:27,745 INFO      extract_newspaper_info 4502908352 https://www.prothomalo.com/life-style/article/1651541/
+2020-04-18 13:00:28,348 INFO      extract_newspaper_info 4502908352 https://www.prothomalo.com/life-style/article/1651479/
+2020-04-18 13:00:35,121 ERROR     extract_newspaper_info 4502908352 (<class 'KeyError'>, KeyError('url'), <traceback object at 0x10c522ac8>)
+2020-04-18 13:45:02,036 INFO      extract_newspaper_info 4633349568 Going to start process for extracting news article information from Newspapers.
+2020-04-18 13:45:51,042 INFO      extract_newspaper_info 4561681856 Going to start process for extracting news article information from Newspapers.
+2020-04-18 13:45:58,293 INFO      extract_newspaper_info 4561681856 https://www.prothomalo.com/bangladesh/article/1650107/
+2020-04-18 13:45:58,720 INFO      extract_newspaper_info 4561681856 https://www.prothomalo.com/life-style/article/1649462/
+2020-04-18 13:46:00,840 INFO      extract_newspaper_info 4561681856 https://www.prothomalo.com/onnoalo/article/1651548/
+2020-04-18 13:46:08,566 INFO      extract_newspaper_info 4561681856 https://www.prothomalo.com/bangladesh/article/1651440/
+2020-04-18 13:46:10,700 INFO      extract_newspaper_info 4561681856 https://www.prothomalo.com/international/article/1651537/
+2020-04-18 13:46:11,174 INFO      extract_newspaper_info 4561681856 https://www.prothomalo.com/life-style/article/1651541/
+2020-04-18 13:46:16,526 INFO      extract_newspaper_info 4561681856 https://www.prothomalo.com/onnoalo/article/1651145/
+2020-04-18 13:46:17,078 INFO      extract_newspaper_info 4561681856 https://www.prothomalo.com/onnoalo/article/1650776/
+2020-04-18 13:46:17,646 INFO      extract_newspaper_info 4561681856 https://www.prothomalo.com/onnoalo/article/1650762/
+2020-04-18 13:46:18,620 INFO      extract_newspaper_info 4561681856 https://www.prothomalo.com/onnoalo/article/1650734/
+2020-04-18 13:46:21,734 INFO      extract_newspaper_info 4561681856 https://www.prothomalo.com/opinion/article/1651512/
+2020-04-18 13:46:25,191 INFO      extract_newspaper_info 4561681856 https://www.prothomalo.com/pachmisheli/article/1651565/
+2020-04-18 13:46:35,204 INFO      extract_newspaper_info 4561681856 https://www.prothomalo.com/life-style/article/1651541/
+2020-04-18 13:46:35,702 INFO      extract_newspaper_info 4561681856 https://www.prothomalo.com/life-style/article/1651479/
+2020-04-18 13:47:59,079 ERROR     extract_newspaper_info 4561681856 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x92\\xAD\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x1122fe688>)
+2020-04-18 13:47:59,556 ERROR     extract_newspaper_info 4561681856 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x92\\xAD\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x114295988>)
+2020-04-18 13:48:46,785 ERROR     extract_newspaper_info 4561681856 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x8C\\x8F\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x113511d08>)
+2020-04-18 13:48:47,319 ERROR     extract_newspaper_info 4561681856 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x8C\\x8F\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x113dbff08>)
+2020-04-18 13:48:49,885 ERROR     extract_newspaper_info 4561681856 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x92\\xAD\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x1132b7f88>)
+2020-04-18 13:48:50,328 ERROR     extract_newspaper_info 4561681856 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x92\\xAD\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x1132b7a08>)
+2020-04-18 13:49:15,209 ERROR     extract_newspaper_info 4561681856 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x8C\\x8F\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x113139248>)
+2020-04-18 13:49:15,679 ERROR     extract_newspaper_info 4561681856 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x8C\\x8F\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x113110188>)
+2020-04-18 13:49:17,829 ERROR     extract_newspaper_info 4561681856 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x92\\xAD\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x1133a9b88>)
+2020-04-18 13:49:18,251 ERROR     extract_newspaper_info 4561681856 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x92\\xAD\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x113f2cfc8>)
+2020-04-18 13:50:32,854 ERROR     extract_newspaper_info 4561681856 (<class 'TypeError'>, TypeError("object of type 'NoneType' has no len()"), <traceback object at 0x1134fc6c8>)
+2020-04-18 14:03:56,927 INFO      extract_newspaper_info 4494454208 Going to start process for extracting news article information from Newspapers.
+2020-04-18 14:04:28,786 INFO      extract_newspaper_info 4457889216 Going to start process for extracting news article information from Newspapers.
+2020-04-18 14:04:34,997 INFO      extract_newspaper_info 4457889216 https://www.prothomalo.com/pachmisheli/article/1651565/
+2020-04-18 14:04:35,768 INFO      extract_newspaper_info 4457889216 https://www.prothomalo.com/bangladesh/article/1650107/
+2020-04-18 14:04:36,211 INFO      extract_newspaper_info 4457889216 https://www.prothomalo.com/life-style/article/1649462/
+2020-04-18 14:04:38,477 INFO      extract_newspaper_info 4457889216 https://www.prothomalo.com/onnoalo/article/1651548/
+2020-04-18 14:04:47,265 INFO      extract_newspaper_info 4457889216 https://www.prothomalo.com/bangladesh/article/1651440/
+2020-04-18 14:04:55,677 INFO      extract_newspaper_info 4457889216 https://www.prothomalo.com/onnoalo/article/1651145/
+2020-04-18 14:04:56,231 INFO      extract_newspaper_info 4457889216 https://www.prothomalo.com/onnoalo/article/1650776/
+2020-04-18 14:04:56,806 INFO      extract_newspaper_info 4457889216 https://www.prothomalo.com/onnoalo/article/1650762/
+2020-04-18 14:04:57,912 INFO      extract_newspaper_info 4457889216 https://www.prothomalo.com/onnoalo/article/1650734/
+2020-04-18 14:05:02,517 INFO      extract_newspaper_info 4457889216 https://www.prothomalo.com/opinion/article/1651512/
+2020-04-18 14:05:04,371 INFO      extract_newspaper_info 4457889216 https://www.prothomalo.com/pachmisheli/article/1651565/
+2020-04-18 14:05:06,767 INFO      extract_newspaper_info 4457889216 https://www.prothomalo.com/international/article/1651537/
+2020-04-18 14:05:13,962 INFO      extract_newspaper_info 4457889216 https://www.prothomalo.com/life-style/article/1651541/
+2020-04-18 14:05:14,545 INFO      extract_newspaper_info 4457889216 https://www.prothomalo.com/life-style/article/1651479/
+2020-04-18 14:06:39,531 ERROR     extract_newspaper_info 4457889216 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x92\\xAD\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x104d01308>)
+2020-04-18 14:06:40,016 ERROR     extract_newspaper_info 4457889216 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x92\\xAD\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x106cd3a88>)
+2020-04-18 14:07:21,690 ERROR     extract_newspaper_info 4457889216 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x8C\\x8F\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x1068f7808>)
+2020-04-18 14:07:22,105 ERROR     extract_newspaper_info 4457889216 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x8C\\x8F\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x106b6eec8>)
+2020-04-18 14:07:24,606 ERROR     extract_newspaper_info 4457889216 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x92\\xAD\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x106b5c788>)
+2020-04-18 14:07:25,013 ERROR     extract_newspaper_info 4457889216 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x92\\xAD\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x107d28088>)
+2020-04-18 14:07:47,578 ERROR     extract_newspaper_info 4457889216 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x8C\\x8F\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x106a29bc8>)
+2020-04-18 14:07:48,010 ERROR     extract_newspaper_info 4457889216 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x8C\\x8F\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x1069a0bc8>)
+2020-04-18 14:07:50,082 ERROR     extract_newspaper_info 4457889216 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x92\\xAD\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x106947c88>)
+2020-04-18 14:07:50,549 ERROR     extract_newspaper_info 4457889216 (<class 'mysql.connector.errors.DataError'>, DataError(1366, "1366 (22007): Incorrect string value: '\\xF0\\x9F\\x92\\xAD\\xF0\\x9F...' for column `newspaper`.`scrapednews`.`description` at row 1", '22007'), <traceback object at 0x10722f588>)

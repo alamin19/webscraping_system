@@ -1,0 +1,17 @@
+2020-03-24 17:46:49,990 INFO      banglatribune 10076 Going to start process for extracting information for banglatribune Newspaper.
+2020-03-24 17:48:12,838 INFO      banglatribune  4560 Going to start process for extracting information for banglatribune Newspaper.
+2020-03-24 17:48:36,616 INFO      banglatribune  5856 Going to start process for extracting information for banglatribune Newspaper.
+2020-03-24 17:48:55,055 INFO      banglatribune  9808 Going to start process for extracting information for banglatribune Newspaper.
+2020-03-24 17:50:41,330 INFO      banglatribune  4892 Going to start process for extracting information for banglatribune Newspaper.
+2020-03-24 17:51:34,201 INFO      banglatribune 10768 Going to start process for extracting information for banglatribune Newspaper.
+2020-03-24 17:52:53,740 INFO      banglatribune  9844 Going to start process for extracting information for banglatribune Newspaper.
+2020-03-24 17:53:44,851 INFO      banglatribune  6792 Going to start process for extracting information for banglatribune Newspaper.
+2020-03-24 17:55:27,746 INFO      banglatribune  9024 Going to start process for extracting information for banglatribune Newspaper.
+2020-03-24 17:55:52,466 INFO      banglatribune  4636 Going to start process for extracting information for banglatribune Newspaper.
+2020-03-24 17:56:17,093 INFO      banglatribune  7452 Going to start process for extracting information for banglatribune Newspaper.
+2020-04-16 16:15:36,030 INFO      banglatribune  8660 Going to start process for extracting information for banglatribune Newspaper.
+2020-04-16 17:10:44,231 INFO      banglatribune 4571327936 Going to start process for extracting information for banglatribune Newspaper.
+2020-04-16 17:10:44,719 ERROR     banglatribune 4571327936 (<class 'bs4.FeatureNotFound'>, FeatureNotFound("Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?"), <traceback object at 0x10c4cac48>)
+2020-04-16 17:20:32,119 INFO      banglatribune 4644425152 Going to start process for extracting information for banglatribune Newspaper.
+2020-04-16 17:20:32,538 ERROR     banglatribune 4644425152 (<class 'bs4.FeatureNotFound'>, FeatureNotFound("Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?"), <traceback object at 0x108711508>)
+2020-04-16 17:21:42,656 INFO      banglatribune 4732186048 Going to start process for extracting information for banglatribune Newspaper.

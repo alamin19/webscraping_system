@@ -1,0 +1,12 @@
+2020-03-24 14:44:49,455 INFO      prothomalo  9320 Going to start process for extracting information for Prothomalo Newspaper.
+2020-03-24 14:47:25,586 INFO      prothomalo  6984 Going to start process for extracting information for Prothomalo Newspaper.
+2020-03-24 14:48:05,269 INFO      prothomalo  3024 Going to start process for extracting information for Prothomalo Newspaper.
+2020-03-24 14:50:38,128 INFO      prothomalo  9484 Going to start process for extracting information for Prothomalo Newspaper.
+2020-03-24 14:50:42,473 ERROR     prothomalo  9484 (<class 'KeyError'>, KeyError('href',), <traceback object at 0x00000000033E8E48>)
+2020-03-24 14:52:57,746 INFO      prothomalo  6272 Going to start process for extracting information for Prothomalo Newspaper.
+2020-03-24 15:15:13,147 INFO      prothomalo   700 Going to start process for extracting information for Prothomalo Newspaper.
+2020-03-24 15:15:38,824 ERROR     prothomalo   700 (<class 'requests.exceptions.ConnectionError'>, ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',)),), <traceback object at 0x00000000034917C8>)
+2020-03-24 15:16:47,267 INFO      prothomalo  2524 Going to start process for extracting information for Prothomalo Newspaper.
+2020-03-24 15:18:44,212 INFO      prothomalo 10876 Going to start process for extracting information for Prothomalo Newspaper.
+2020-03-24 15:19:23,714 ERROR     prothomalo 10876 (<class 'requests.exceptions.SSLError'>, SSLError(MaxRetryError("HTTPSConnectionPool(host='www.prothomalo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:852)'),))",),), <traceback object at 0x0000000003491608>)
+2020-03-24 15:20:00,689 INFO      prothomalo 11040 Going to start process for extracting information for Prothomalo Newspaper.

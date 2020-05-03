@@ -1,0 +1,22 @@
+CREATE TABLE `scrapednews` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `title` mediumtext NOT NULL,
+  `description` mediumtext NOT NULL,
+  `url` mediumtext NOT NULL,
+  `image` mediumtext NOT NULL,
+  `logo` mediumtext NOT NULL,
+  `category` mediumtext,
+  `newspaper_name` mediumtext NOT NULL,
+   PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
+createCompanies.py
+createUsers.py
+user_job_stats.py
+user_stats.py
+job_stats.py
+jobimportsolrpsqlext.py
+jobimportsolrpsqlint.py
+jobDeleteSolrPsqlThrdInt.py
+jobDeleteSolrPsqlThrdExt.py
