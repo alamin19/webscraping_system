@@ -1,0 +1,44 @@
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+
+# Step 1: Fetching webpage content
+url = 'https://www.exampleclinicaldata.com/statistics'
+response = requests.get(url)
+
+# Check response status
+if response.status_code == 200:
+    print("Webpage fetched successfully")
+else:
+    print("Failed to fetch webpage")
+
+# Step 2: Parsing HTML content
+soup = BeautifulSoup(response.content, 'html.parser')
+
+# Step 3: Extract relevant data (e.g., tables)
+table = soup.find('table', {'id': 'clinical_data_table'})
+
+# Step 4: Extract table rows
+rows = table.find_all('tr')
+
+# Step 5: Extract column headers
+headers = [header.text.strip() for header in rows[0].find_all('th')]
+
+# Step 6: Extract table data
+data = []
+for row in rows[1:]:
+    cols = row.find_all('td')
+    cols = [col.text.strip() for col in cols]
+    data.append(cols)
+
+# Step 7: Convert data to DataFrame and clean
+df = pd.DataFrame(data, columns=headers)
+
+# Basic Cleaning (optional)
+df.replace('', pd.NA, inplace=True)
+df.dropna(inplace=True)
+
+# Step 8: Save data to CSV
+df.to_csv('clinical_data.csv', index=False)
+
+print("Data scraping and saving completed successfully.")
